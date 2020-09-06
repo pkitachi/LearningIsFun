@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'blog',
     'users',
     "bootstrap4",
-    'videocall',
     # "django_misaka",
 ]
 
